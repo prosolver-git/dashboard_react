@@ -9,6 +9,9 @@ Step 3
 Now Run:
 $npm start
 
+About Code:
+The Task Card is Draggable. The bar chart's data is from the django API.
+
 ## File Structure
 
 Within the download you'll find the following directories and files:
